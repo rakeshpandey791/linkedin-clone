@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Vercel domain url 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Domain: https://tm-db-eje3.vercel.app/feed
 
 ## Available Scripts
 
